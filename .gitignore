@@ -1,0 +1,15 @@
+tailwind.config.js
+tablas.html
+package-lock.json
+tablas.html
+
+# Carpetas de dependencias
+node_modules/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y temporales
+*.log
+*.tmp
